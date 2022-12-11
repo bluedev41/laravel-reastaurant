@@ -1,0 +1,101 @@
+
+/* employee navbar */
+.navbar {
+    background-color: rgb(28, 35, 61);
+    min-height: 9vh;
+}
+
+.nav-item {
+    margin-right: 1.3rem;
+}
+
+.nav-holders {
+    margin-right: 6rem;
+}
+
+.dropdown-item:hover {
+    color: rgb(233, 233, 233) !important;
+    background-color: rgb(28, 35, 61) !important;
+}
+
+.container {
+    /* background-color: rgb(233, 233, 233); */
+    background-color: #D0D0D0;
+    min-height: 91vh;
+    box-shadow: 0 0 10px #000;
+}
+
+.btn {
+    color: #FFF;
+    background-color: rgb(28, 35, 61);
+}
+
+.btn:hover {
+    box-shadow: 0 0 10px #000;
+}
+
+/* employee home */
+.alert {
+    /* margin-top: 2rem; */
+    background-color: rgb(28, 35, 61);
+    color: rgb(233, 233, 233);
+    font-size: 1.3rem;
+    height: 3.5rem;
+}
+
+
+
+/* employee orders */
+.orders {
+    padding-top: 3rem;
+}
+
+.add-button {
+    float: right;
+}
+
+.table-row {
+    background-color: rgb(28, 35, 61);
+}
+
+.table-header {
+    color: #FFF;
+}
+
+tr:nth-child(even) {
+    color: #FFF;
+}
+
+tr:nth-child(even) > td > .btn {
+    /* color: #FFF; */
+    background-color: #D0D0D0;
+    color: rgb(28, 35, 61);
+}
+
+
+
+/* employee add order */
+.order-form {
+    /* margin: 0 auto; */
+    margin-top: 3rem;
+    /* background-color: rgb(28, 35, 61); */
+    /* color: #FFF; */
+    /* padding: 1rem; */
+    /* box-shadow: 0 0 3px #000; */
+}
+
+.cart-button {
+    margin-top: 4rem;
+    float: right;
+}
+
+
+/* employee tables */
+.badge {
+    width: 5rem;
+    height: 1.5rem;
+}
+
+.list-tables {
+    margin-top: 1.3rem;
+}

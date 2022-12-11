@@ -1,0 +1,37 @@
+.background {
+    height: 100vh;
+    /* background-color: rgb(5, 13, 38); */
+    background-color: rgb(28, 35, 61);
+}
+
+.login-box {
+    height: 21rem;
+    /* background-color: rgb(233, 233, 233, 0.85); */
+    /* background-color: #D0D0D0; */
+    background-color: #7F7F7F;
+    margin: 0 auto;
+    margin-top: 3rem;
+    box-shadow: 0 0 50px #000;
+    /* text-align: center; */
+    padding-top: 2rem;
+}
+
+.login-box > .h3 {
+    text-align: center;
+}
+
+.header {
+    text-align: center;
+    color: rgb(233, 233, 233);
+    padding-top: 3rem;
+    text-shadow: 4px 4px #000;
+}
+
+.btn {
+    color: #FFF;
+    background-color: rgb(28, 35, 61);
+}
+
+.btn:hover {
+    box-shadow: 0 0 10px #000;
+}
